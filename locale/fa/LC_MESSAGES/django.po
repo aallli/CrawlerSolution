@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-01 13:33+0430\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\Crawler\models.py:6
+msgid "Name"
+msgstr "نام"
+
+#: .\Crawler\models.py:7 .\Crawler\models.py:20
+msgid "Active"
+msgstr "فعال"
+
+#: .\Crawler\models.py:10 .\Crawler\models.py:18
+msgid "Platform"
+msgstr "پلتفرم"
+
+#: .\Crawler\models.py:11
+#, fuzzy
+#| msgid "Platform"
+msgid "Platforms"
+msgstr "پلتفرمها"
+
+#: .\Crawler\models.py:19
+#, fuzzy
+#| msgid "Channel"
+msgid "Channel Name"
+msgstr "کانال"
+
+#: .\Crawler\models.py:23
+#, fuzzy
+#| msgid "Channel"
+msgid "Channel"
+msgstr "کانال"
+
+#: .\Crawler\models.py:24
+#, fuzzy
+#| msgid "Channel"
+msgid "Channels"
+msgstr "کانالها"
+
+#: .\Crawler\models.py:31
+msgid "Resource"
+msgstr "منبع"
+
+#: .\Crawler\models.py:34 .\Crawler\models.py:35
+msgid "Config"
+msgstr "امکانات"
